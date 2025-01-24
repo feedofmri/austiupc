@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rubayet &#8211; AUST IUPC</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 24 Jan 2025 18:26:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2025/01/AUST-IUPC-Favicon-150x150.png</url>
+	<title>rubayet &#8211; AUST IUPC</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>MTB Presents AUST Inter University Programming Contest 2025 Pre-Registration started.</title>
+		<link>./../../../mtb-presents-aust-inter-university-programming-contest-2025-pre-registration-started/index.html</link>
+					<comments>./../../../mtb-presents-aust-inter-university-programming-contest-2025-pre-registration-started/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[rubayet]]></dc:creator>
+		<pubDate>Fri, 24 Jan 2025 18:26:08 +0000</pubDate>
+				<category><![CDATA[Notice]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1125</guid>
+
+					<description><![CDATA[After almost three years, the AUST Programming and Informatics Club (AUSTPIC) is excited to host another AUST Inter University Programming Contest (IUPC)! Sponsored by Mutual Trust Bank PLC, this prestigious event brings together the sharpest minds from universities across the country to showcase their programming talent in a thrilling competition. Prepare to test your problem-solving [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>After almost three years, the AUST Programming and Informatics Club (AUSTPIC) is excited to host another AUST Inter University Programming Contest (IUPC)! Sponsored by Mutual Trust Bank PLC, this prestigious event brings together the sharpest minds from universities across the country to showcase their programming talent in a thrilling competition. Prepare to test your problem-solving skills, creativity, and teamwork in this long-awaited programming challenge!</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../mtb-presents-aust-inter-university-programming-contest-2025-pre-registration-started/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
